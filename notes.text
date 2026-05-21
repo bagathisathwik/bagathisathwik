@@ -1,0 +1,20 @@
+components in React :
+...................
+
+
+-> components are the smallest UI blocks
+called as components
+
+Types:
+......
+
+1. class based components (CBC)
+
+-> components are declared using class keyword is  called as classbased components
+->in CBC constructor, superkeyword,this keyword is present
+also render(),and life cycle methods are present 
+-> in CBC state are present so that's why is called as a statefull
+components
+
+
+2.function based components(FBC)
